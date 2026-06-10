@@ -20,3 +20,6 @@ dist/
 .DS_Store
 .vscode/
 .idea/
+
+# Internal planning notes (owner policy: local-only, untracked)
+.planning/
